@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="logoexonlinenewmarker" size="50.000000 22.187500" />
+    <ImageTarget name="10193" size="1080.000000 1439.675049" />
+    <ImageTarget name="marker_new" size="1080.000000 763.182922" />
+  </Tracking>
+</QCARConfig>
